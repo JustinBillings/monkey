@@ -1,5 +1,6 @@
 var journal = ["DM13 rocks!! Woot!!", "Justin", "Billings"];
 
+var random = "New code";
 /*
 cd foldername
 cd ..
@@ -10,8 +11,11 @@ touch newfileName.text
 
 git clone
 git status
-git add fileName
-git commit -m
+git add fileName.js
+git commit -m "message"
 git push
+git pull
+git checkout -b branchName
+git checkout branchName
 
 */
